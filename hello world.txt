@@ -1,2 +1,2 @@
-write ("Hello world!");
-write ("aloha");
+write ("Hello world!;");
+write ("aloha;");
