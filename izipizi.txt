@@ -1,0 +1,2 @@
+write ("izipizi");
+write("fuck u");
